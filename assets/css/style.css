@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(59, 186, 228);
+}
+
+.container {
+    width: 50%;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: lightgreen;
+    margin: 10% auto;
+    text-align: center;
+}
+
+#letters {
+    color:green;
+    background-color: lightgrey;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
