@@ -11,6 +11,10 @@ body {
     text-align: center;
 }
 
+#word {
+    letter-spacing: 3px;
+}
+
 #letters {
     color:green;
     background-color: lightgrey;
