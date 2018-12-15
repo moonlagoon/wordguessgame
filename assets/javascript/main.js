@@ -1,12 +1,7 @@
-const wordList = [
-    "pikachu",
-    "sky",
-    "coding",
-    "cat",
-    "christmas",
-    "guitar",
-    "apple"
-  ];
+const wordList = ["nintendo", "sega", "mario",
+     "luigi", "pikachu", "charizard", "link", 
+     "zelda", "sonic", "gamecube", "controller", 
+     "coin", "pokeball", "pokemon", "gameboy"];
 
   let wins = 0,
     losses = 0

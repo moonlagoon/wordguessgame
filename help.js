@@ -10,13 +10,11 @@ console.log(chosenWord);
 let remainingGuesses = 10;
 let wins = 0;
 let losses = 0;
-let underScores = [];
 let lettersOfWord = [];
 let rightLetter = [];
 let wrongLetter = [];
 let usedLetters = [];
-let loseAudio = new Audio(“assets/audio/evil.mp3”);
-let placeHolder = document.getElementById(“underscores”);
+
 
 //create a function that resets the game
 let newGame = () => {
